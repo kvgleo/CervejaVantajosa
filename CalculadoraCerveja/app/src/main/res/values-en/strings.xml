@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preco">$</string>
+    <string name="cerveja">1st Beer</string>
+    <string name="cerveja2">2nd Beer</string>
+    <string name="ceva1">Description: Default image of the first beer\'s pack</string>
+    <string name="ceva2">Description: Default image of the second beer\'s pack</string>
+    <string name="btn">Calculate</string>
+    <string name="tittle">Advantageous Beer</string>
+    <string name="error">Some items are not filled.</string>
+    <string name="result">The best choice is...</string>
+    <string name="win1">THE 1st BEER</string>
+    <string name="win2">THE 2nd BEER</string>
+</resources>

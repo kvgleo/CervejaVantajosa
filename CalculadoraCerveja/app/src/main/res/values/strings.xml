@@ -1,0 +1,14 @@
+<resources>
+    <string name="preco">R$</string>
+    <string name="cerveja">Cerveja 1</string>
+    <string name="cerveja2">Cerveja 2</string>
+    <string name="mls">ml</string>
+    <string name="ceva1">Descrição: Imagem padrão da primeira embalagem da cerveja</string>
+    <string name="ceva2">Descrição: Imagem padrão da segunda embalagem da cerveja</string>
+    <string name="btn">Calcular</string>
+    <string name="tittle">Cerveja Vantajosa</string>
+    <string name="error">Alguns itens não estão preenchidos</string>
+    <string name="result">A melhor escolha é a...</string>
+    <string name="win1">CERVEJA Nº 1</string>
+    <string name="win2">CERVEJA Nº 2</string>
+</resources>
